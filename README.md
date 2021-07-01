@@ -39,7 +39,7 @@ Feel free to leave feedback. You can also find me on [![Twitter][1.2]][1] and [!
 
 <p align="center">
 
-<a href="https://www.credly.com/badges/97ab8338-adbb-4b62-b29d-a70427bd126d"><img src="https://images.credly.com/size/340x340/images/5a92a708-1726-41ff-9588-387e3d545e52/ETBD-PEN-300-OSEP-badge.png" height="100px" width="100px"></a>
+<a href="https://www.credly.com/badges/97ab8338-adbb-4b62-b29d-a70427bd126d"><img src="https://images.credly.com/size/340x340/images/5a92a708-1726-41ff-9588-387e3d545e52/ETBD-PEN-300-OSEP-badge.png" height="100px" width="100px" align="center"></a>
 <a href="https://www.credly.com/badges/f40e345e-02b6-4357-b2f8-16d02035fd51"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" height="100px" width="100px"></a>
 
 </p>
