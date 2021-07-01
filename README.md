@@ -17,7 +17,7 @@ Feel free to leave feedback. You can also find me on [![Twitter][1.2]][1] and [!
 [2]: https://linkedin.com/in/affix
 
 <p align="center">
-    <a href="https://twitter.com/affix"><img src="https://img.shields.io/twitter/follow/affix?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+    <a href="https://twitter.com/cli"><img src="https://img.shields.io/twitter/follow/cli?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
     <a href="https://github.com/affix"><img src="https://img.shields.io/github/followers/affix?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
 
