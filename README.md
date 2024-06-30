@@ -1,44 +1,40 @@
 # Keiran Smith | Affix
 
-Hi!
+I’m Keiran Smith, known online as Affix. As an OSCE3 certified penetration tester, I have a deep passion for cybersecurity and ethical hacking. My mission is to strengthen digital defenses and ensure the integrity and security of information systems.
 
-My name is Keiran and I like to build and break things
+🔒 Expertise
+Penetration Testing: Skilled in identifying and exploiting vulnerabilities in networks, applications, and systems.
+Red Teaming: Experienced in simulating advanced adversary techniques to test and improve organizational security.
+Cybersecurity Research: Continuously learning and researching new attack vectors and defense mechanisms.
+Security Audits: Conducting thorough security assessments and providing actionable remediation steps.
 
-I am a Cyber Security professional and developer based in Scotland. I currently hold OSCP and OSEP certifications.
+🛠️ Skills
+Programming Languages: Go, Rust, Ruby, Python, PHP, Java, C/C++, Swift, ASM (x86, amd64, aarch64, armv7), Bash, PowerShell
+Tools & Frameworks: Metasploit, Burp Suite, Nmap, Wireshark, Linux
+Cloud Security: AWS, Azure, GCP security best practices
+Operating Systems: Proficient with Linux, Windows, and macOS environments
 
-Feel free to leave feedback. You can also find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
+📚 Certifications
+- OSCE3: Offensive Security Certified Expert
+- OSWE: Offensive Security Web Expert
+- OSEP: Offensive Security Experiesed Penetration Tester
+- OSED: Offensive Security Exploit Developer
+- OSCP: Offensive Security Certified Professional
 
----
+[Checkout my Accredible Wallet](https://www.credential.net/profile/affix/wallet)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+Currently Working Towards:
+- CRTO: Certified Red Team Operator
+- CRTOII: Certified Red Team Operator II
 
-[1]: https://twitter.com/cli
-[2]: https://linkedin.com/in/affix
+🌐 Projects
+On this GitHub, you’ll find a collection of my projects, tools, and scripts related to penetration testing and cybersecurity. These projects reflect my ongoing commitment to the field and my desire to share knowledge with the community.
 
-<p align="center">
-    <a href="https://twitter.com/cli"><img src="https://img.shields.io/twitter/follow/cli?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
-    <a href="https://github.com/affix"><img src="https://img.shields.io/github/followers/affix?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
-</p>
+🌱 Continuous Learning
+Cybersecurity is an ever-evolving field, and I am dedicated to staying ahead of the curve. Whether through certifications, courses, or hands-on experience, I constantly seek opportunities to expand my knowledge and skills.
 
----
+🤝 Let's Connect
+I am always open to collaboration, knowledge sharing, and connecting with fellow cybersecurity professionals. Feel free to reach out if you have any questions, ideas, or just want to chat about the latest in cybersecurity.
 
-<p align="center">
-
-<a href="https://github.com/affix/affix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=affix&include_all_commits=true&custom_title=affix's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
-</a>
-
-<a href="https://github.com/affix/affix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affix&hide_title=false&exclude_repo=affix.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-    <a href="https://www.credly.com/badges/f40e345e-02b6-4357-b2f8-16d02035fd51/public_url"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" height="100px" width="100px" align="center"></a>
-    <a href="https://www.credly.com/badges/97ab8338-adbb-4b62-b29d-a70427bd126d/public_url"><img src="https://images.credly.com/size/340x340/images/5a92a708-1726-41ff-9588-387e3d545e52/ETBD-PEN-300-OSEP-badge.png" height="100px" width="100px" align="center"></a> 
-    <a href="https://www.credly.com/badges/0d63364b-0935-4e05-941b-cc80762fc926/public_url"><img src="https://images.credly.com/size/340x340/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png" height="100px" width="100px" align="center"></a> 
-</p>
+LinkedIn: [Keiran Smith](https://www.linkedin.com/in/affix/)
+Twitter: [@AffixSec](https://twitter.com/AffixSec)
