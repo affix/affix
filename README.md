@@ -21,10 +21,10 @@ I’m Keiran Smith, known online as Affix. As an OSCE3 certified penetration tes
 
 📚 Certifications
 - OSCE3: Offensive Security Certified Expert
-- OSWE: Offensive Security Web Expert
-- OSEP: Offensive Security Experiesed Penetration Tester
-- OSED: Offensive Security Exploit Developer
-- OSCP: Offensive Security Certified Professional
+- OSWE : Offensive Security Web Expert
+- OSEP : Offensive Security Experiesed Penetration Tester
+- OSED : Offensive Security Exploit Developer
+- OSCP : Offensive Security Certified Professional
 
 [Checkout my Accredible Wallet](https://www.credential.net/profile/affix/wallet)
 
