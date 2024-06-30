@@ -7,10 +7,13 @@ Penetration Testing: Skilled in identifying and exploiting vulnerabilities in ne
 Red Teaming: Experienced in simulating advanced adversary techniques to test and improve organizational security.
 Cybersecurity Research: Continuously learning and researching new attack vectors and defense mechanisms.
 Security Audits: Conducting thorough security assessments and providing actionable remediation steps.
+DevOps: Integrating security best practices into the development and deployment lifecycle.
+SecOps: Collaborating with security and operations teams to enhance incident response and threat detection.
+Development: Creating custom tools and scripts to automate security tasks and improve efficiency.
 
 🛠️ Skills
 Programming Languages: Go, Rust, Ruby, Python, PHP, Java, C/C++, Swift, ASM (x86, amd64, aarch64, armv7), Bash, PowerShell
-Tools & Frameworks: Metasploit, Burp Suite, Nmap, Wireshark, Linux
+Tools & Frameworks: Metasploit, Cobal Strike, Sliver, Burp Suite, Nmap, Wireshark, Linux
 Cloud Security: AWS, Azure, GCP security best practices
 Operating Systems: Proficient with Linux, Windows, and macOS environments
 
