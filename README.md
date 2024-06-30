@@ -37,10 +37,12 @@ Currently Working Towards:
 On this GitHub, you’ll find a collection of my projects, tools, and scripts related to penetration testing and cybersecurity. These projects reflect my ongoing commitment to the field and my desire to share knowledge with the community.
 
 🌱 Continuous Learning
+
 Cybersecurity is an ever-evolving field, and I am dedicated to staying ahead of the curve. Whether through certifications, courses, or hands-on experience, I constantly seek opportunities to expand my knowledge and skills.
 
 🤝 Let's Connect
+
 I am always open to collaboration, knowledge sharing, and connecting with fellow cybersecurity professionals. Feel free to reach out if you have any questions, ideas, or just want to chat about the latest in cybersecurity.
 
-LinkedIn: [Keiran Smith](https://www.linkedin.com/in/affix/)
-Twitter: [@AffixSec](https://twitter.com/AffixSec)
+- LinkedIn: [Keiran Smith](https://www.linkedin.com/in/affix/)
+- Twitter: [@AffixSec](https://twitter.com/AffixSec)
