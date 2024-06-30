@@ -14,10 +14,10 @@ I’m Keiran Smith, known online as Affix. As an OSCE3 certified penetration tes
 
 🛠️ Skills
 
-Programming Languages: Go, Rust, Ruby, Python, PHP, Java, C/C++, Swift, ASM (x86, amd64, aarch64, armv7), Bash, PowerShell
-Tools & Frameworks: Metasploit, Cobal Strike, Sliver, Burp Suite, Nmap, Wireshark, Linux
-Cloud Security: AWS, Azure, GCP security best practices
-Operating Systems: Proficient with Linux, Windows, and macOS environments
+- Programming Languages: Go, Rust, Ruby, Python, PHP, Java, C/C++, Swift, ASM (x86, amd64, aarch64, armv7), Bash, PowerShell
+- Tools & Frameworks: Metasploit, Cobal Strike, Sliver, Burp Suite, Nmap, Wireshark, Linux
+- Cloud Security: AWS, Azure, GCP security best practices
+- Operating Systems: Proficient with Linux, Windows, and macOS environments
 
 📚 Certifications
 - OSCE3: Offensive Security Certified Expert
