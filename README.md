@@ -3,15 +3,17 @@
 I’m Keiran Smith, known online as Affix. As an OSCE3 certified penetration tester, I have a deep passion for cybersecurity and ethical hacking. My mission is to strengthen digital defenses and ensure the integrity and security of information systems.
 
 🔒 Expertise
-Penetration Testing: Skilled in identifying and exploiting vulnerabilities in networks, applications, and systems.
-Red Teaming: Experienced in simulating advanced adversary techniques to test and improve organizational security.
-Cybersecurity Research: Continuously learning and researching new attack vectors and defense mechanisms.
-Security Audits: Conducting thorough security assessments and providing actionable remediation steps.
-DevOps: Integrating security best practices into the development and deployment lifecycle.
-SecOps: Collaborating with security and operations teams to enhance incident response and threat detection.
-Development: Creating custom tools and scripts to automate security tasks and improve efficiency.
+
+- Penetration Testing: Skilled in identifying and exploiting vulnerabilities in networks, applications, and systems.
+- Red Teaming: Experienced in simulating advanced adversary techniques to test and improve organizational security.
+- Cybersecurity Research: Continuously learning and researching new attack vectors and defense mechanisms.
+- Security Audits: Conducting thorough security assessments and providing actionable remediation steps.
+- DevOps: Integrating security best practices into the development and deployment lifecycle.
+- SecOps: Collaborating with security and operations teams to enhance incident response and threat detection.
+- Development: Creating custom tools and scripts to automate security tasks and improve efficiency.
 
 🛠️ Skills
+
 Programming Languages: Go, Rust, Ruby, Python, PHP, Java, C/C++, Swift, ASM (x86, amd64, aarch64, armv7), Bash, PowerShell
 Tools & Frameworks: Metasploit, Cobal Strike, Sliver, Burp Suite, Nmap, Wireshark, Linux
 Cloud Security: AWS, Azure, GCP security best practices
@@ -31,6 +33,7 @@ Currently Working Towards:
 - CRTOII: Certified Red Team Operator II
 
 🌐 Projects
+
 On this GitHub, you’ll find a collection of my projects, tools, and scripts related to penetration testing and cybersecurity. These projects reflect my ongoing commitment to the field and my desire to share knowledge with the community.
 
 🌱 Continuous Learning
